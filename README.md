@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sisodiahs
+- 👋 Hi, I’m Himanshu Singh
 - 👀 I’m interested in Web Developement and Cyber Security
 - 🌱 I’m currently learning Flutter
 - 📫 Reach me at sisodia.hs95@gmail.com
